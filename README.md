@@ -1,12 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vinay Chaudhari
 =======================================================================================================================================
 
-![](https://giphy.com/clips/HrithikRoshan-bollywood-namaste-hrithik-roshan-0B0LlPOpZq8Tb6cFCl)
+
 
 Data Scientist
 --------------
 
 As a Data Science professional, I'm dedicated to using data to inform and optimize business strategies. With expertise in statistical analysis, predictive modeling, and data visualization. My programming and data engineering background enable me to manage and process large datasets, and I'm always seeking opportunities to improve data quality and efficiency. I'm passionate about working with cross-functional teams to identify and solve complex problems, and I believe that clear communication and collaboration are key to creating impactful solutions. 
+
+![Uploading 0_nsgXxd0kwN3qT2ks.gif…]()
 
 Programming Languages: Python, R, SQL, C. 
 
@@ -35,6 +37,9 @@ Other skills: MATLAB, PLC & SCADA, and Microsoft Office: Excel, Word, and PowerP
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/Ninjateen" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/vinay.chaudhari_/?next=%2F" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/vinay-chaudhari-120386187/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@vinaychaudhari2699" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a></p>
+
+
+https://user-images.githubusercontent.com/121499250/219939040-2a350f25-4452-4cff-b0fe-8b584c881f38.mp4
 
 ### Badges
 
