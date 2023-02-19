@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vinay Chaudhari
 =======================================================================================================================================
 
-![Uploading 0_nsgXxd0kwN3qT2ks.gif…]()
+https://user-images.githubusercontent.com/121499250/219939199-77d25ef3-16f0-4cd4-ab92-24b9c96173a3.mp4
 
 Data Scientist
 --------------
