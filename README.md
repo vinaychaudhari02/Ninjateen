@@ -4,12 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Scientist
 --------------
 
-As a Data Science professional, I'm dedicated to using data to inform and optimize business strategies. With expertise in statistical analysis, predictive modeling, and data visualization. My programming and data engineering background enable me to manage and process large datasets, and I'm always seeking opportunities to improve data quality and efficiency. I'm passionate about working with cross-functional teams to identify and solve complex problems, and I believe that clear communication and collaboration are key to creating impactful solutions.
-
-Programming Languages: Python, R, SQL, C.
-Machine Learning: Supervised Learning and Unsupervised Learning: KNN, Linear, and Logistic Regression, SVM, Decision Trees, Random Forest, Clustering, and Naive Bayes. Deep Learning: Neural Network, TensorFlow, Keras, CNN, RNN, Transfer Learning, Object Detection, and OpenCV.
-Data Visualization: Tableau, Excel, Matplotlib, Power BI. 
-Other skills: MATLAB, PLC & SCADA, and Microsoft Office: Excel, Word, and PowerPoint.
+As a Data Science professional, I'm dedicated to using data to inform and optimize business strategies. With expertise in statistical analysis, predictive modeling, and data visualization. My programming and data engineering background enable me to manage and process large datasets, and I'm always seeking opportunities to improve data quality and efficiency. I'm passionate about working with cross-functional teams to identify and solve complex problems, and I believe that clear communication and collaboration are key to creating impactful solutions. Programming Languages: Python, R, SQL, C. Machine Learning: Supervised Learning and Unsupervised Learning: KNN, Linear, and Logistic Regression, SVM, Decision Trees, Random Forest, Clustering, and Naive Bayes. Deep Learning: Neural Network, TensorFlow, Keras, CNN, RNN, Transfer Learning, Object Detection, and OpenCV. Data Visualization: Tableau, Excel, Matplotlib, Power BI. Other skills: MATLAB, PLC & SCADA, and Microsoft Office: Excel, Word, and PowerPoint.
 
 * 🌍  I'm based in INDIA
 * ✉️  You can contact me at [vinaychaudhari2699@gmail.com](mailto:vinaychaudhari2699@gmail.com)
