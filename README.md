@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vinay Chaudhari
 =======================================================================================================================================
-https://giphy.com/clips/HrithikRoshan-bollywood-namaste-hrithik-roshan-0B0LlPOpZq8Tb6cFCl
 
+![](https://giphy.com/clips/HrithikRoshan-bollywood-namaste-hrithik-roshan-0B0LlPOpZq8Tb6cFCl)
 
 Data Scientist
 --------------
