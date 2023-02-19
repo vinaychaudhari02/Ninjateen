@@ -1,8 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vinay Chaudhari
 =======================================================================================================================================
 
-https://user-images.githubusercontent.com/121499250/219939199-77d25ef3-16f0-4cd4-ab92-24b9c96173a3.mp4
-
 Data Scientist
 --------------
 
@@ -22,8 +20,8 @@ Other skills: MATLAB, PLC & SCADA, and Microsoft Office: Excel, Word, and PowerP
 * 🌍  I'm based in INDIA
 * ✉️  You can contact me at [vinaychaudhari2699@gmail.com](mailto:vinaychaudhari2699@gmail.com)
 
-### Skills
 
+### Skills
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
@@ -37,8 +35,6 @@ Other skills: MATLAB, PLC & SCADA, and Microsoft Office: Excel, Word, and PowerP
 
 <p align="left"> <a href="https://www.github.com/Ninjateen" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/vinay.chaudhari_/?next=%2F" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/vinay-chaudhari-120386187/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@vinaychaudhari2699" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a></p>
 
-
-https://user-images.githubusercontent.com/121499250/219939040-2a350f25-4452-4cff-b0fe-8b584c881f38.mp4
 
 ### Badges
 
