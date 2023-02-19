@@ -8,7 +8,6 @@ Data Scientist
 
 As a Data Science professional, I'm dedicated to using data to inform and optimize business strategies. With expertise in statistical analysis, predictive modeling, and data visualization. My programming and data engineering background enable me to manage and process large datasets, and I'm always seeking opportunities to improve data quality and efficiency. I'm passionate about working with cross-functional teams to identify and solve complex problems, and I believe that clear communication and collaboration are key to creating impactful solutions. 
 
-![Uploading 0_nsgXxd0kwN3qT2ks.gif…]()
 
 Programming Languages: Python, R, SQL, C. 
 
